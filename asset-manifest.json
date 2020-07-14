@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Neil-Michaeli-08-07-2020/static/css/main.32160c97.chunk.css",
+    "main.js": "/Neil-Michaeli-08-07-2020/static/js/main.8d5da716.chunk.js",
+    "main.js.map": "/Neil-Michaeli-08-07-2020/static/js/main.8d5da716.chunk.js.map",
+    "runtime-main.js": "/Neil-Michaeli-08-07-2020/static/js/runtime-main.6a1c0adc.js",
+    "runtime-main.js.map": "/Neil-Michaeli-08-07-2020/static/js/runtime-main.6a1c0adc.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Neil-Michaeli-08-07-2020/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.7dfaaa51.chunk.js": "/Neil-Michaeli-08-07-2020/static/js/2.7dfaaa51.chunk.js",
+    "static/js/2.7dfaaa51.chunk.js.map": "/Neil-Michaeli-08-07-2020/static/js/2.7dfaaa51.chunk.js.map",
+    "index.html": "/Neil-Michaeli-08-07-2020/index.html",
+    "precache-manifest.c056bf27dd36bf8dcbe54fae66f7a3a3.js": "/Neil-Michaeli-08-07-2020/precache-manifest.c056bf27dd36bf8dcbe54fae66f7a3a3.js",
+    "service-worker.js": "/Neil-Michaeli-08-07-2020/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Neil-Michaeli-08-07-2020/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.32160c97.chunk.css.map": "/Neil-Michaeli-08-07-2020/static/css/main.32160c97.chunk.css.map",
+    "static/js/2.7dfaaa51.chunk.js.LICENSE.txt": "/Neil-Michaeli-08-07-2020/static/js/2.7dfaaa51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a1c0adc.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.7dfaaa51.chunk.js",
+    "static/css/main.32160c97.chunk.css",
+    "static/js/main.8d5da716.chunk.js"
+  ]
+}
