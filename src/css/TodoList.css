@@ -1,0 +1,22 @@
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+h1{
+    color:rgb(0, 176, 116);
+    height: auto;
+    text-align:right;
+    padding-right: 210pt;
+}
+
+input[type='text']{
+    text-align:right;
+    }
+    
+    /* tr{
+        border:2px solid black;
+    } */
+ th{
+    background-color: rgb(216, 216, 216);
+ }
+btn{
+    color:rgb(0, 176, 116);
+}
