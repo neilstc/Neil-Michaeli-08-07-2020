@@ -37,12 +37,12 @@ class DataServices<Props> {
     getTodo(name: string, id: string) {
 
       //  return axios.get(`http://localhost:4000/users/${name}/todos/${id}`);
-       //   return axios.get(`${URL}/users/${name}/todos/${id}`);
+          return axios.get(`${URL}/users/${name}/todos/${id}`);
 
     }
     deleteTodo(name: string, id: number) {
        // return axios.delete(`http://localhost:4000/users/${name}/todos/${id}`);
-        return axios.delete(`${URL}/users/${name}/todos`);
+        return axios.delete(`${URL}/users/${name}/todos/${id}`);
     }
 
 
