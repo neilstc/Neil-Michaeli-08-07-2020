@@ -30,7 +30,6 @@ class Todo extends Component<Props, State>{
         if (!values.description) {
             errors = "Enter a decription";
         }
-
         return errors;
     }
 
@@ -55,11 +54,10 @@ class Todo extends Component<Props, State>{
         let { text, targetDate } = this.state;
         return (
             <div>
-                <h1>  TODO </h1>
+                
 
                 <Formik
                     initialValues={{ text: text, targetDate: targetDate }}
-               
                     validateOnChange={false}
                     validateOnBlur={false}
                     enableReinitialize={true}

@@ -7,7 +7,7 @@ import DataServices from "./DataServices";
 class AuthenticationService{
 
 registerSuccessfulLogin(email:string, password:string){   
-    DataServices.getUser(email, password);
+  //  DataServices.getUser(email, password);
     sessionStorage.setItem("authenticatedUser", email);   
 }
 
